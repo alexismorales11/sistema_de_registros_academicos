@@ -1,0 +1,11 @@
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Backend\bin\Debug\Backend.dll
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Backend\bin\Debug\Backend.pdb
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Backend\obj\Debug\Backend.dll
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Backend\obj\Debug\Backend.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\bin\Debug\Backend.dll
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\bin\Debug\Backend.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\obj\Debug\Backend.dll
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Backend\obj\Debug\Backend.pdb

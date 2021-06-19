@@ -1,0 +1,49 @@
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\bin\Debug\Frontend.exe
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\bin\Debug\Frontend.pdb
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\bin\Debug\Backend.dll
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\bin\Debug\Backend.pdb
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.csprojAssemblyReference.cache
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.csproj.CopyComplete
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.exe
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.pdb
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.FormRegistrarInstitucion.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.FormMenu.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroUniversidad.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.FormLogin.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.FormDocentes.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.FormAlumno.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.ComprobarInstitucionDoc.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.ComprobarInstitucionAlum.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroColegios.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroEscuela.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.AsistenciaAlumno.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.AsistenciaDocente.resources
+C:\Users\ALEXIS MORALES\source\repos\proyectoFinal\Frontend\obj\Debug\Frontend.ReporteDocente.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\bin\Debug\Frontend.exe.config
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\bin\Debug\Frontend.exe
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\bin\Debug\Frontend.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\bin\Debug\Backend.dll
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\bin\Debug\Backend.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.AsistenciaAlumno.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.AsistenciaDocente.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.ComprobarInstitucionAlum.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.FormAlumno.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.FormDocentes.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.FormLogin.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.FormMenu.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.FormRegistrarInstitucion.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.ComprobarInstitucionDoc.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroColegios.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroEscuela.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.RegistroUniversidad.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.ReporteDocente.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.csproj.CopyComplete
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.exe
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\proyectoFinal\Frontend\obj\Debug\Frontend.pdb
